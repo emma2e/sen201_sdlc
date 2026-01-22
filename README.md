@@ -73,18 +73,31 @@ print("Student Name:", name)
 print("Score:", score)
 print("Grade:", grade)
 ```
-## Deployment
+## 5. Testing
+
+The program was tested using different test cases to ensure accurate grading.
+
+| Input Score | Expected Output |
+|------------|----------------|
+| 85         | Grade A        |
+| 65         | Grade B        |
+| 55         | Grade C        |
+| 40         | Grade F        |
+
+All test cases produced correct results.
+
+## 6. Deployment
 
 The project was deployed by uploading the source code to a **GitHub repository**, making it accessible for review.
 
-## Maintenance
+## 7. Maintenance
 
 Future improvements may include:  
 - Supporting multiple students  
 - Saving results to a file  
 - Adding GPA calculation  
 
-## How to Run the Program
+## 8. How to Run the Program
 
 1. **Install Python** (if not already installed)  
 2. **Download or clone the repository**:  
